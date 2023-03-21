@@ -1,0 +1,10 @@
+// import partials
+@import './foundations/btns';
+@import './reset/reset';
+
+img {
+    height: 100%;
+    width: 100%;
+    color: red;
+    border-radius: 30%;
+}
